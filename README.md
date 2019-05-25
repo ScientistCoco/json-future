@@ -16,7 +16,7 @@
 
 > Modern JSON interface. [propositions for ECMAScript 7](https://github.com/mohsen1/async-json).
 
-## Why
+### Why
 
 * High level methods for manipulate JSON files.
 * Backward compatibility with JSON Object in Node/Browser.
